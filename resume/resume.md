@@ -15,7 +15,7 @@
 | Benjamin Wadsworth | [resume](benjamin_wadsworth.pdf) | [website](https://bcwadsworth.me/) |
 | Kidus Yohannes | [resume](kidus_yohannes.pdf) | [website](https://kiduss-portfolio.webflow.io/) |
 | Alex Charters | [resume](alex_charters.docx) | [website](https://alexcharters.github.io/ECE_3992_website/) |
-| Scott Crowley | [resume](scott_crowley.docx) | Missing website |
+| Scott Crowley | [resume](scott_crowley.pdf) | [website](https://scottcrowley.tech/) |
 | Mohammed Fateh | [resume](mohammed_fateh.pdf) | [website](https://moefateh.com) |
 | Sam Hirsch | [resume](sam_hirsch.pdf) | [website](https://www.samhirsch.me) |
 | Phelan Hobbs | [resume](phelan_hobbs.pdf) | [website](https://phelanhobbs.github.io/PhelanResume.github.io/) |
